@@ -1,7 +1,7 @@
 # Solder_Project
-Cool sun detection project
-Crocodillooooo fufu
+Small project (first time using kicad and with electronics:
+when the device detects sun, the motor makes it vibrate and you can control how strong the vibration will be with a potentiometer!
 
-![capture_solder](https://github.com/user-attachments/assets/f9b08ede-10fe-4edf-b49f-fdd0b4ec80df)
-![Capture_solder_pcb1](https://github.com/user-attachments/assets/49889489-648e-424f-9199-0ec869b09f51)
-![Capture_solder_pcb2](https://github.com/user-attachments/assets/7fb1dd3e-059f-4125-b36c-c24f3213d793)
+![capture_solder](https://github.com/user-attachments/assets/1c986fe4-68cb-4c8b-954f-e33143f03b1c)
+![Capture_solder_pcb1](https://github.com/user-attachments/assets/75d0f551-8f55-4aef-9c65-ced42787bb6f)
+![Capture_solder_pcb2](https://github.com/user-attachments/assets/fd4e4f05-768d-4b46-a0a0-d0b40c76bd92)
